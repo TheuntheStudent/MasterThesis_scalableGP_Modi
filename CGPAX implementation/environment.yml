@@ -1,0 +1,27 @@
+name: gpbrax
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip>=20.3.3
+  - conda>=4.9.2
+  - pip:
+    - glfw==2.5.0
+    #- gpy==1.13.2
+    - gymnasium==0.29.1
+    - h5py==3.16.0
+    - imageio==2.14.1
+    - matplotlib==3.5.1
+    - numpy==2.1
+    - opencv-python==4.5.5.62
+    - pillow==12.1.1
+    - pybind11==2.9.0
+    - pygifsicle==1.0.5
+    - pyopengl==3.1.5
+    - pyopengl-accelerate==3.1.10
+    - torch==2.10.0
+    - ttkbootstrap==1.5.1
+    #- typing==3.7.4.3
+    - --find-links https://storage.googleapis.com/jax-releases/jax_releases.html
+    - -r requirements.txt

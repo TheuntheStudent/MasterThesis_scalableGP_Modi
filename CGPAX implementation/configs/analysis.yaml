@@ -1,0 +1,6 @@
+seed: 100
+generation: -1
+save_visualization: true
+target_dir: data/outcomes
+input_color: green
+output_color: red
