@@ -1,0 +1,274 @@
+These device(s) are detected: [CudaDevice(id=0)]
+Failed to import warp: No module named 'warp'
+Failed to import mujoco_warp: No module named 'warp'
+/gpfs/home6/tvdenbroek1/modi_kozax/lib/python3.12/site-packages/brax/io/mjcf.py:480: UserWarning: Brax System, piplines and environments are not actively being maintained. Please see MJX for a well maintained JAX-based physics engine: https://github.com/google-deepmind/mujoco/tree/main/mjx. For a host of environments that use MJX, see: https://github.com/google-deepmind/mujoco_playground.
+  warnings.warn(
+Input data should be formatted as: ['y0', 'y1', 'y2', 'y3', 'y4', 'y5', 'y6', 'y7', 'y8', 'y9', 'y10', 'y11', 'y12', 'y13', 'y14', 'y15', 'y16'].
+Mujoco Modi v2 (not updated) 0.5
+Compiling code for evaluation and evolution...
+Finished compilation in 206.29 seconds
+invalid solutions: 0 0
+In generation 1
+Complexity: 1, fitness: -12.449820518493652, equation: [0.639, 0, 0, 0, 0, 0]
+Complexity: 2, fitness: -391.3657531738281, equation: [0, 0, sin(y13), 0, 0, 0]
+Complexity: 4, fitness: -558.0307006835938, equation: [0, 0, y10 + y6, 0, 0, sin(y10 + y6)]
+Complexity: 5, fitness: -2524.34423828125, equation: [2*y7 + y9, 0, 0, 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 2
+Complexity: 1, fitness: -562.6015625, equation: [0, 0, 0, 0, y9, 0]
+Complexity: 5, fitness: -2527.376953125, equation: [2*y7 + y9, 0, 0, 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 3
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -793.7545166015625, equation: [0, 0, 2*y4, 0, 0, 0]
+Complexity: 5, fitness: -2544.9501953125, equation: [2*y7 + y9, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3073.7255859375, equation: [4*y7 + 3*y9, 0, 0, 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 4
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.2109375, equation: [0, 0, y12 - y8, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3409.8427734375, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 5
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.2109375, equation: [0, 0, y12 - y8, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3409.8427734375, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 6
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.2109375, equation: [0, 0, y12 - y8, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 7
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.2109375, equation: [0, 0, y12 - y8, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3562.152587890625, equation: [2*y7 + y9, 0, y7*(2*y7 + y9 + 1.36), 0, 0, 2*y7]
+Complexity: 16, fitness: -3603.5634765625, equation: [2*y7 + y9, 0, (2*y7 + y9 + 1.36)*(y0 + y6 + y7 + sin(y16)), 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 8
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 8, fitness: -3454.4189453125, equation: [y6 + 2*y7 + sin(y16), 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3562.152587890625, equation: [2*y7 + y9, 0, y7*(2*y7 + y9 + 1.36), 0, 0, 2*y7]
+Complexity: 16, fitness: -3606.226318359375, equation: [2*y7 + y9, 0, (2*y7 + y9 + 1.36)*(y0 + y6 + y7 + sin(y16)), 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 9
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 8, fitness: -3454.4189453125, equation: [y6 + 2*y7 + sin(y16), 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3562.152587890625, equation: [2*y7 + y9, 0, y7*(2*y7 + y9 + 1.36), 0, 0, 2*y7]
+Complexity: 16, fitness: -3606.226318359375, equation: [2*y7 + y9, 0, (2*y7 + y9 + 1.36)*(y0 + y6 + y7 + sin(y16)), 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 10
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3441.3095703125, equation: [y6*y7 + 2*y7, 0, y6*y7, 0, 0, 2*y7]
+Complexity: 8, fitness: -3454.4189453125, equation: [y6 + 2*y7 + sin(y16), 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3562.152587890625, equation: [2*y7 + y9, 0, y7*(2*y7 + y9 + 1.36), 0, 0, 2*y7]
+Complexity: 14, fitness: -3572.38916015625, equation: [2*y7 + y9, 0, (y6 + y7 + sin(y16))*(2*y7 + y9 + 1.36), 0, 0, 2*y7]
+Complexity: 16, fitness: -3607.314208984375, equation: [2*y7 + y9, 0, (2*y7 + y9 + 1.36)*(y0 + y6 + y7 + sin(y16)), 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 11
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3459.3115234375, equation: [y1 + y6 + 2*y7, 0, y1 + y6, 0, 0, 2*y7]
+Complexity: 9, fitness: -3562.152587890625, equation: [2*y7 + y9, 0, y7*(2*y7 + y9 + 1.36), 0, 0, 2*y7]
+Complexity: 14, fitness: -3584.681396484375, equation: [2*y7 + y9, 0, (y6 + y7 + sin(y16))*(2*y7 + y9 + 1.36), 0, 0, 2*y7]
+Complexity: 16, fitness: -3612.31201171875, equation: [2*y7 + y9, 0, (2*y7 + y9 + 1.36)*(y0 + y6 + y7 + sin(y16)), 0, 0, 2*y7]
+invalid solutions: 0 0
+In generation 12
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3459.3115234375, equation: [y1 + y6 + 2*y7, 0, y1 + y6, 0, 0, 2*y7]
+Complexity: 9, fitness: -3670.34716796875, equation: [y1*y6 + y6*(y1*y6 + 2*y7) + 2*y7, 0, y1*y6, 0, 0, 2*y7]
+Complexity: 16, fitness: -3681.544677734375, equation: [2*y7 + (y4 + y7)*(y0*y4*cos(y1) + y3), y0*cos(y1), 0, 0, y0*y4*cos(y1), 2*y7]
+invalid solutions: 0 0
+In generation 13
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3459.3115234375, equation: [y1 + y6 + 2*y7, 0, y1 + y6, 0, 0, 2*y7]
+Complexity: 9, fitness: -3670.34716796875, equation: [y1*y6 + y6*(y1*y6 + 2*y7) + 2*y7, 0, y1*y6, 0, 0, 2*y7]
+Complexity: 16, fitness: -3681.544677734375, equation: [2*y7 + (y4 + y7)*(y0*y4*cos(y1) + y3), y0*cos(y1), 0, 0, y0*y4*cos(y1), 2*y7]
+Complexity: 17, fitness: -4009.20751953125, equation: [2*y7 + (y3 + y4*cos(y0*cos(y1)))*(y4 + y7), y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+invalid solutions: 0 0
+In generation 14
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3459.3115234375, equation: [y1 + y6 + 2*y7, 0, y1 + y6, 0, 0, 2*y7]
+Complexity: 9, fitness: -3700.7685546875, equation: [y1*y6 + y6*(y1*y6 + 2*y7) + 2*y7, 0, y1*y6, 0, 0, 2*y7]
+Complexity: 14, fitness: -3715.0791015625, equation: [2*y7 + (y0 + y3)*(y13*y3 + sin(y7)), 0, 0, 0, 0, 2*y7]
+Complexity: 17, fitness: -4009.20751953125, equation: [2*y7 + (y3 + y4*cos(y0*cos(y1)))*(y4 + y7), y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+invalid solutions: 0 0
+In generation 15
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3459.3115234375, equation: [y1 + y6 + 2*y7, 0, y1 + y6, 0, 0, 2*y7]
+Complexity: 9, fitness: -3700.7685546875, equation: [y1*y6 + y6*(y1*y6 + 2*y7) + 2*y7, 0, y1*y6, 0, 0, 2*y7]
+Complexity: 11, fitness: -3810.424072265625, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4157.453125, equation: [2*y7 + (y3 + y4*cos(y0*cos(y1)))*(y10 + y14 + y7), y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+invalid solutions: 0 0
+In generation 16
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3536.25048828125, equation: [y14*y7 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3700.7685546875, equation: [y1*y6 + y6*(y1*y6 + 2*y7) + 2*y7, 0, y1*y6, 0, 0, 2*y7]
+Complexity: 11, fitness: -3817.0771484375, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4157.453125, equation: [2*y7 + (y3 + y4*cos(y0*cos(y1)))*(y10 + y14 + y7), y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+invalid solutions: 0 0
+In generation 17
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3536.25048828125, equation: [y14*y7 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3700.7685546875, equation: [y1*y6 + y6*(y1*y6 + 2*y7) + 2*y7, 0, y1*y6, 0, 0, 2*y7]
+Complexity: 11, fitness: -3817.0771484375, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+invalid solutions: 0 0
+In generation 18
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3578.94482421875, equation: [y4*y7 + 2*y7, 0, 0, 0, y4*y7, 2*y7]
+Complexity: 9, fitness: -3704.75927734375, equation: [y7*(y0 + y3) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 11, fitness: -3819.5048828125, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+invalid solutions: 0 0
+In generation 19
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3578.94482421875, equation: [y4*y7 + 2*y7, 0, 0, 0, y4*y7, 2*y7]
+Complexity: 9, fitness: -3704.75927734375, equation: [y7*(y0 + y3) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 11, fitness: -3819.5048828125, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+invalid solutions: 0 0
+In generation 20
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3578.94482421875, equation: [y4*y7 + 2*y7, 0, 0, 0, y4*y7, 2*y7]
+Complexity: 9, fitness: -3704.75927734375, equation: [y7*(y0 + y3) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 11, fitness: -3819.5048828125, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 13, fitness: -3829.14306640625, equation: [y1*(y0 + y5 + y7) + y6*(y1*(y0 + y5 + y7) + 2*y7) + 2*y7, 0, y1*(y0 + y5 + y7), 0, 0, 2*y7]
+Complexity: 14, fitness: -3952.73291015625, equation: [y0*y2*cos(y1) + y1*y10 + 2*y7, y0*y2*cos(y1) + y0*cos(y1), 0, 0, 0, y1*y10 + 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+Complexity: 25, fitness: -4445.9072265625, equation: [2*y7 + (y3 + y4*cos(y0*cos(y1) + cos(y12)))*(y0*y5*cos(y1) + y7), 2*y0*cos(y1), 0, 0, y4*cos(y0*cos(y1) + cos(y12)), 2*y7]
+invalid solutions: 0 0
+In generation 21
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3590.160888671875, equation: [y3 + y6*(y3 + 2*y7) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3704.75927734375, equation: [y7*(y0 + y3) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 11, fitness: -3819.5048828125, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 13, fitness: -3829.14306640625, equation: [y1*(y0 + y5 + y7) + y6*(y1*(y0 + y5 + y7) + 2*y7) + 2*y7, 0, y1*(y0 + y5 + y7), 0, 0, 2*y7]
+Complexity: 14, fitness: -4094.215576171875, equation: [y0*(y0*y5*cos(y1) + y7) + 2*y7, y0*cos(y1), 0, 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+Complexity: 25, fitness: -4445.9072265625, equation: [2*y7 + (y3 + y4*cos(y0*cos(y1) + cos(y12)))*(y0*y5*cos(y1) + y7), 2*y0*cos(y1), 0, 0, y4*cos(y0*cos(y1) + cos(y12)), 2*y7]
+invalid solutions: 0 0
+In generation 22
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3590.160888671875, equation: [y3 + y6*(y3 + 2*y7) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3704.75927734375, equation: [y7*(y0 + y3) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 11, fitness: -3819.5048828125, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 13, fitness: -3829.14306640625, equation: [y1*(y0 + y5 + y7) + y6*(y1*(y0 + y5 + y7) + 2*y7) + 2*y7, 0, y1*(y0 + y5 + y7), 0, 0, 2*y7]
+Complexity: 14, fitness: -4094.215576171875, equation: [y0*(y0*y5*cos(y1) + y7) + 2*y7, y0*cos(y1), 0, 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+Complexity: 25, fitness: -4475.3154296875, equation: [2*y7 + (y3 + y4*cos(y0*cos(y11) + cos(y12)))*(y0*y5*cos(y1) + y7), y0*cos(y1) + y0*cos(y11), 0, 0, y4*cos(y0*cos(y11) + cos(y12)), 2*y7]
+invalid solutions: 0 0
+In generation 23
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3590.160888671875, equation: [y3 + y6*(y3 + 2*y7) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3704.75927734375, equation: [y7*(y0 + y3) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 11, fitness: -3819.5048828125, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 13, fitness: -3829.14306640625, equation: [y1*(y0 + y5 + y7) + y6*(y1*(y0 + y5 + y7) + 2*y7) + 2*y7, 0, y1*(y0 + y5 + y7), 0, 0, 2*y7]
+Complexity: 14, fitness: -4094.215576171875, equation: [y0*(y0*y5*cos(y1) + y7) + 2*y7, y0*cos(y1), 0, 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+Complexity: 25, fitness: -4485.1064453125, equation: [2*y7 + (y3 + y4*cos(y0*cos(y11) + cos(y12)))*(y0*y5*cos(y1) + y7), y0*cos(y1) + y0*cos(y11), 0, 0, y4*cos(y0*cos(y11) + cos(y12)), 2*y7]
+invalid solutions: 0 0
+In generation 24
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3590.160888671875, equation: [y3 + y6*(y3 + 2*y7) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3704.75927734375, equation: [y7*(y0 + y3) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 11, fitness: -3819.5048828125, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 13, fitness: -3829.14306640625, equation: [y1*(y0 + y5 + y7) + y6*(y1*(y0 + y5 + y7) + 2*y7) + 2*y7, 0, y1*(y0 + y5 + y7), 0, 0, 2*y7]
+Complexity: 14, fitness: -4094.215576171875, equation: [y0*(y0*y5*cos(y1) + y7) + 2*y7, y0*cos(y1), 0, 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+Complexity: 24, fitness: -4394.62646484375, equation: [2*y7 + (y3 + y4*cos(y0*y14*cos(y7)))*(y3*y5*cos(y14) + y7), y0*cos(y7) + y3*cos(y14), 0, 0, y4*cos(y0*y14*cos(y7)), 2*y7]
+Complexity: 25, fitness: -4485.1064453125, equation: [2*y7 + (y3 + y4*cos(y0*cos(y11) + cos(y12)))*(y0*y5*cos(y1) + y7), y0*cos(y1) + y0*cos(y11), 0, 0, y4*cos(y0*cos(y11) + cos(y12)), 2*y7]
+invalid solutions: 0 0
+In generation 25
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3590.160888671875, equation: [y3 + y6*(y3 + 2*y7) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3704.75927734375, equation: [y7*(y0 + y3) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 11, fitness: -3819.5048828125, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 13, fitness: -3829.14306640625, equation: [y1*(y0 + y5 + y7) + y6*(y1*(y0 + y5 + y7) + 2*y7) + 2*y7, 0, y1*(y0 + y5 + y7), 0, 0, 2*y7]
+Complexity: 14, fitness: -4094.215576171875, equation: [y0*(y0*y5*cos(y1) + y7) + 2*y7, y0*cos(y1), 0, 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+Complexity: 24, fitness: -4427.7861328125, equation: [2*y7 + (y3 + y4*cos(y0*cos(y7) - 0.455))*(y0*y5*cos(y1) + y2), y0*cos(y1) + y0*cos(y7), 0, 0, y4*cos(y0*cos(y7) - 0.455), 2*y7]
+Complexity: 25, fitness: -4504.18115234375, equation: [2*y7 + (y3 + y4*cos(y0*cos(y12) + cos(y12)))*(y0*y5*cos(y1) + y2), y0*cos(y1) + y0*cos(y12), 0, 0, y4*cos(y0*cos(y12) + cos(y12)), 2*y7]
+Final pareto front:
+Complexity: 1, fitness: -765.915283203125, equation: [-1.57, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -896.256103515625, equation: [y3 - 1.08, 0, 0, 0, 0, 0]
+Complexity: 4, fitness: -1050.318359375, equation: [0, 0, y4 + sin(y4), 0, 0, 0]
+Complexity: 5, fitness: -3426.150390625, equation: [y3 + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 7, fitness: -3590.160888671875, equation: [y3 + y6*(y3 + 2*y7) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 9, fitness: -3704.75927734375, equation: [y7*(y0 + y3) + 2*y7, 0, 0, 0, 0, 2*y7]
+Complexity: 11, fitness: -3819.5048828125, equation: [y1*(y3 + y7) + y6*(y1*(y3 + y7) + 2*y7) + 2*y7, 0, y1*(y3 + y7), 0, 0, 2*y7]
+Complexity: 13, fitness: -3829.14306640625, equation: [y1*(y0 + y5 + y7) + y6*(y1*(y0 + y5 + y7) + 2*y7) + 2*y7, 0, y1*(y0 + y5 + y7), 0, 0, 2*y7]
+Complexity: 14, fitness: -4094.215576171875, equation: [y0*(y0*y5*cos(y1) + y7) + 2*y7, y0*cos(y1), 0, 0, 0, 2*y7]
+Complexity: 15, fitness: -4120.8291015625, equation: [y2*(y3 + y4*cos(y0*cos(y1))) + 2*y7, y0*cos(y1), 0, 0, y4*cos(y0*cos(y1)), 2*y7]
+Complexity: 19, fitness: -4365.9150390625, equation: [2*y7 + (y3 + y4*cos(y2*cos(y1)))*(y10 + y14 + y7), y2*cos(y1), 0, 0, y4*cos(y2*cos(y1)), 2*y7]
+Complexity: 24, fitness: -4427.7861328125, equation: [2*y7 + (y3 + y4*cos(y0*cos(y7) - 0.455))*(y0*y5*cos(y1) + y2), y0*cos(y1) + y0*cos(y7), 0, 0, y4*cos(y0*cos(y7) - 0.455), 2*y7]
+Complexity: 25, fitness: -4504.18115234375, equation: [2*y7 + (y3 + y4*cos(y0*cos(y12) + cos(y12)))*(y0*y5*cos(y1) + y2), y0*cos(y1) + y0*cos(y12), 0, 0, y4*cos(y0*cos(y12) + cos(y12)), 2*y7]

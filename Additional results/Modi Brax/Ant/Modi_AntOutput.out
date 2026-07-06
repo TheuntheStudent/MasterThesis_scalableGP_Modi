@@ -1,0 +1,240 @@
+These device(s) are detected: [CudaDevice(id=0)]
+Failed to import warp: No module named 'warp'
+Failed to import mujoco_warp: No module named 'warp'
+/gpfs/home6/tvdenbroek1/modi_kozax/lib/python3.12/site-packages/brax/io/mjcf.py:480: UserWarning: Brax System, piplines and environments are not actively being maintained. Please see MJX for a well maintained JAX-based physics engine: https://github.com/google-deepmind/mujoco/tree/main/mjx. For a host of environments that use MJX, see: https://github.com/google-deepmind/mujoco_playground.
+  warnings.warn(
+Input data should be formatted as: ['y0', 'y1', 'y2', 'y3', 'y4', 'y5', 'y6', 'y7', 'y8', 'y9', 'y10', 'y11', 'y12', 'y13', 'y14', 'y15', 'y16', 'y17', 'y18', 'y19', 'y20', 'y21', 'y22', 'y23', 'y24', 'y25', 'y26'].
+Mujoco Modi v1 (not updated)
+Compiling code for evaluation and evolution...
+Finished compilation in 114.27 seconds
+invalid solutions: 0 0
+In generation 1
+Complexity: 1, fitness: -45.58060836791992, equation: [0.639, 0, 0, 0, 0, 0, 0, 0]
+Complexity: 2, fitness: -161.126953125, equation: [0, 0, 0, 0, 0, 0, sin(y7), 0]
+Complexity: 3, fitness: -195.50698852539062, equation: [0, 0, 0, 0, y0*y24, 0, 0, 0]
+Complexity: 5, fitness: -211.28274536132812, equation: [0, 0, 0, 0, 0, 0, y3*y8 + 0.118, 0]
+Complexity: 6, fitness: -770.279296875, equation: [0, cos(y12 + y7 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 2
+Complexity: 1, fitness: -360.785400390625, equation: [0, 0.214, 0, 0, 0, 0, 0, 0]
+Complexity: 6, fitness: -799.74365234375, equation: [0, cos(-y12 + y7 + y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 3
+Complexity: 1, fitness: -360.785400390625, equation: [0, 0.214, 0, 0, 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -770.6272583007812, equation: [0, 0, 0, cos(y11 - y6), 0, 0, 0, 0]
+Complexity: 6, fitness: -845.2193603515625, equation: [0, cos(y12 - y8 + y9), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 4
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -770.6272583007812, equation: [0, 0, 0, cos(y11 - y6), 0, 0, 0, 0]
+Complexity: 6, fitness: -854.2645263671875, equation: [0, cos(y12 + y7 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 5
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -770.6272583007812, equation: [0, 0, 0, cos(y11 - y6), 0, 0, 0, 0]
+Complexity: 6, fitness: -854.2645263671875, equation: [0, cos(y12 + y7 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1010.5460205078125, equation: [0, sin(sin(y10)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 6
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -770.6272583007812, equation: [0, 0, 0, cos(y11 - y6), 0, 0, 0, 0]
+Complexity: 5, fitness: -780.5447998046875, equation: [0, 0, 0, cos(y6 + cos(y5)), 0, 0, 0, 0]
+Complexity: 6, fitness: -880.035888671875, equation: [0, cos(y12 + y2 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1010.5460205078125, equation: [0, sin(sin(y10)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 7
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -781.671630859375, equation: [0, 0, 0, cos(y11 - y6), 0, 0, 0, 0]
+Complexity: 6, fitness: -947.7534790039062, equation: [0, cos(y12 + y2 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1010.5460205078125, equation: [0, sin(sin(y10)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 8
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -781.671630859375, equation: [0, 0, 0, cos(y11 - y6), 0, 0, 0, 0]
+Complexity: 6, fitness: -947.7534790039062, equation: [0, cos(y12 + y2 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1010.5460205078125, equation: [0, sin(sin(y10)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 12, fitness: -1011.8410034179688, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 9
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -781.671630859375, equation: [0, 0, 0, cos(y11 - y6), 0, 0, 0, 0]
+Complexity: 6, fitness: -957.640625, equation: [0, cos(y12 + y2 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1010.5460205078125, equation: [0, sin(sin(y10)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 12, fitness: -1011.8410034179688, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 10
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -925.49853515625, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 6, fitness: -967.782958984375, equation: [0, 0, 0, 0, 0, -0.118*y8 - 0.118*cos(y20), 0, 0]
+Complexity: 10, fitness: -1010.5460205078125, equation: [0, sin(sin(y10)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 11
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -925.49853515625, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 6, fitness: -967.782958984375, equation: [0, 0, 0, 0, 0, -0.118*y8 - 0.118*cos(y20), 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 12
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -956.849365234375, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 6, fitness: -967.782958984375, equation: [0, 0, 0, 0, 0, -0.118*y8 - 0.118*cos(y20), 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 13
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -956.849365234375, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 6, fitness: -967.782958984375, equation: [0, 0, 0, 0, 0, -0.118*y8 - 0.118*cos(y20), 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 22, fitness: -1050.91357421875, equation: [0, 0, 0, cos(y6 + 0.771), 0, y23*sin(y19*y23*(y18 + y9*sin(y16*y18*y19*cos(y6 + 0.771)))) + y9*sin(y16*y18*y19*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 14
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -956.849365234375, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 6, fitness: -967.782958984375, equation: [0, 0, 0, 0, 0, -0.118*y8 - 0.118*cos(y20), 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 11, fitness: -1026.55322265625, equation: [0, sin(y12*y8)*cos(y12 + y15 - y8) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 22, fitness: -1050.91357421875, equation: [0, 0, 0, cos(y6 + 0.771), 0, y23*sin(y19*y23*(y18 + y9*sin(y16*y18*y19*cos(y6 + 0.771)))) + y9*sin(y16*y18*y19*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 15
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -956.849365234375, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 6, fitness: -967.782958984375, equation: [0, 0, 0, 0, 0, -0.118*y8 - 0.118*cos(y20), 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 11, fitness: -1026.55322265625, equation: [0, sin(y12*y8)*cos(y12 + y15 - y8) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 22, fitness: -1050.91357421875, equation: [0, 0, 0, cos(y6 + 0.771), 0, y23*sin(y19*y23*(y18 + y9*sin(y16*y18*y19*cos(y6 + 0.771)))) + y9*sin(y16*y18*y19*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 16
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 22, fitness: -1050.91357421875, equation: [0, 0, 0, cos(y6 + 0.771), 0, y23*sin(y19*y23*(y18 + y9*sin(y16*y18*y19*cos(y6 + 0.771)))) + y9*sin(y16*y18*y19*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 17
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1054.857666015625, equation: [0, 0, 0, cos(y6 + 0.771), 0, y14*sin(y18*(y10*y14*y19*y2 + y19)*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 18
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1054.857666015625, equation: [0, 0, 0, cos(y6 + 0.771), 0, y14*sin(y18*(y10*y14*y19*y2 + y19)*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 19
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1054.857666015625, equation: [0, 0, 0, cos(y6 + 0.771), 0, y14*sin(y18*(y10*y14*y19*y2 + y19)*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 20
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1054.857666015625, equation: [0, 0, 0, cos(y6 + 0.771), 0, y14*sin(y18*(y10*y14*y19*y2 + y19)*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 21
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1054.857666015625, equation: [0, 0, 0, cos(y6 + 0.771), 0, y14*sin(y18*(y10*y14*y19*y2 + y19)*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 22
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1054.857666015625, equation: [0, 0, 0, cos(y6 + 0.771), 0, y14*sin(y18*(y10*y14*y19*y2 + y19)*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 23
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1054.857666015625, equation: [0, 0, 0, cos(y6 + 0.771), 0, y14*sin(y18*(y10*y14*y19*y2 + y19)*cos(y6 + 0.771)), 0, 0]
+invalid solutions: 0 0
+In generation 24
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1067.884521484375, equation: [0, (y12*y7 + y15)*cos(y7 + cos(y12))*cos(y12 - y8 + cos(y12)) + cos(y12) + cos(y12 - y8 + cos(y12)), 0, 0, 0, 0, 0, 0]
+invalid solutions: 0 0
+In generation 25
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1067.884521484375, equation: [0, (y12*y7 + y15)*cos(y7 + cos(y12))*cos(y12 - y8 + cos(y12)) + cos(y12) + cos(y12 - y8 + cos(y12)), 0, 0, 0, 0, 0, 0]
+Final pareto front:
+Complexity: 1, fitness: -399.7896728515625, equation: [0, 0, 0, 0.270, 0, 0, 0, 0]
+Complexity: 2, fitness: -540.025390625, equation: [0, 0, 0, cos(y6), 0, 0, 0, 0]
+Complexity: 3, fitness: -615.11376953125, equation: [0, 0, 0, y10*y15, 0, 0, 0, 0]
+Complexity: 4, fitness: -979.4907836914062, equation: [0, 0, 0, cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 9, fitness: -1025.75244140625, equation: [0, cos(y12 + y15) + cos(y12 - y8 + cos(y12 + y15)), 0, 0, 0, 0, 0, 0]
+Complexity: 10, fitness: -1028.018798828125, equation: [0, 0, 0, y18*y19*y22*cos(y6 + 0.771) + cos(y6 + 0.771), 0, 0, 0, 0]
+Complexity: 12, fitness: -1030.43359375, equation: [0, sin(sin(y12*y8)*cos(y12 + y15 - y8)) + cos(y12 + y15 - y8), 0, 0, 0, 0, 0, 0]
+Complexity: 19, fitness: -1067.884521484375, equation: [0, (y12*y7 + y15)*cos(y7 + cos(y12))*cos(y12 - y8 + cos(y12)) + cos(y12) + cos(y12 - y8 + cos(y12)), 0, 0, 0, 0, 0, 0]
