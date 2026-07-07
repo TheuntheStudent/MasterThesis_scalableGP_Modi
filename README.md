@@ -16,6 +16,7 @@ CPGAX and the RL methods used in this Thesis (PPO and SAC) have been implemented
 The following packages were used to run Kozax and Modi on GPU:
 
 Brax installation:
+
 !pip install -U "jax[cuda12]"
 
 !pip install brax
@@ -24,7 +25,7 @@ Brax installation:
 
 !pip install jaxtyping
 
-!pip install sympy
+!pip install sympy\\
 
 Mujoco installation:
 !pip install -U "jax[cuda12]"
@@ -43,7 +44,7 @@ Mujoco installation:
 
 !pip install playground warp-lang==1.12.1
 
-!pip install sympy
+!pip install sympy\\
 
 ## Repository structure
 The structure of the repository is as follows:
