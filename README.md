@@ -29,6 +29,7 @@ Brax installation:
 
 
 Mujoco installation:
+
 !pip install -U "jax[cuda12]"
 
 !pip install mujoco
